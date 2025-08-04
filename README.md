@@ -29,11 +29,11 @@ To use an asset from this repository, you must use its **raw file URL**.
 2. Click the **"Download"** button or right-click it and select **"Copy Link Address"**.
 
 3. The resulting URL will be the raw content URL, which will look something like this:
-   `https://raw.githubusercontent.com/KofileDev/georgia-public-assets/main/github-teams-bot/logo.png`
+   `https://raw.githubusercontent.com/KofileDev/georgia-public-assets/main/github-teams-bot/announcement-banner.png`
 
 ## 🖼️ Example
 
 To use an image from this repository in another project's `README.md` file, use the following Markdown syntax with the raw URL obtained above:
 
 ```markdown
-![Bot Icon](https://raw.githubusercontent.com/KofileDev/georgia-public-assets/main/github-teams-bot/logo.png)
+![Bot Icon](https://raw.githubusercontent.com/KofileDev/georgia-public-assets/main/github-teams-bot/announcement-banner.png)
